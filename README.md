@@ -3,25 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramodkarunathilake&label=Profile%20views&color=0e75b6&style=flat" alt="pramodkarunathilake" /> </p>
 
-- 🔭 I’m currently working on [Tourism_management_system](https://github.com/PramodKarunathilake/Tourism_management_system.git)
-
 - 🌱 I’m currently learning **Machine Learning Data Analysis Python for Data Science Java Programming**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects AI / Data Science Open Source Projects**
-
-- 🤝 I’m looking for help with **Advanced Machine Learning Deep Learning & AI System Design**
-
 - 👨‍💻 All of my projects are available at [https://github.com/PramodKarunathilake](https://github.com/PramodKarunathilake)
-
-- 📝 I regularly write articles on [Coming Soon](Coming Soon)
 
 - 💬 Ask me about **Python Data Analysis Machine Learning GitHub Projects**
 
 - 📫 How to reach me **pramodh.dilshan@hotmail.com**
-
-- 📄 Know about my experiences [Coming Soon](Coming Soon)
-
-- ⚡ Fun fact **I love building AI systems and learning new technologies every day 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
