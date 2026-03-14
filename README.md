@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pramod Karunathilake</h1>
+<h1 align="center">Hi , I'm Pramod Karunathilake</h1>
 <h3 align="center">Aspiring AI Engineer | Data Science Undergraduate | Building AI Solutions with ML, DL, & NLP</h3>
 
 ---
